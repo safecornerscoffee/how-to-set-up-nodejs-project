@@ -75,6 +75,12 @@ add "prettier" to the "extends" array in your
 ```shell
 npm install --save-dev jest
 ```
+### Change Target Environment to Node
+```javascript
+module.exports = {
+    testEnvironment: 'node',
+}
+```
 [Integrating with Linters](https://github.com/jest-community/eslint-plugin-jest#readme)
 ```shell
 npm install --save-dev eslint-plugin-jest
