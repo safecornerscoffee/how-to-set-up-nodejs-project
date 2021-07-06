@@ -1,4 +1,4 @@
-# How to Set Up Node.js Project
+Node.js Project Template
 ## Requirement
 - [ ] Babel7
 - [ ] Eslint
